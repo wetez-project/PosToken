@@ -102,7 +102,6 @@ PoS将引入通胀元素，通胀的对象是持有PoS能兑换的权益，比�
 总量一亿, 分阶段释放，每三个月为一个周期，该周期释放量增加，没有发放完毕代币，会直接进行销毁，销毁形式会将没有挖完的代币打入一个没有人可以控制的地址中
 
 ![Image text](https://tezos.oss-cn-beijing.aliyuncs.com/pic/pos-token/%E5%9B%BE%E7%89%87%201.png)
-![Image text](https://tezos.oss-cn-beijing.aliyuncs.com/pic/pos-book/%E5%9B%BE%E7%89%87%208.png)
 
 初期（第一个月）：
 1000000个Token，为期1个月，挖完及结束，没有挖完的代币将进行销毁
