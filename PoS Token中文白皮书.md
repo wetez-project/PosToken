@@ -108,7 +108,7 @@ PoS将引入通胀元素，通胀的对象是持有PoS能兑换的权益，比�
 ![Image text](https://oldofficial.wetez.io/IMG/postoken.png)
 
 初期（第一个月）：
-1000000个Token，为期1个月，挖完及结束，没有挖完的代币将进行销毁  <br>
+1000000个Token，为期1个月，挖完及结束，没有挖完的代币将进行销毁    
 
 
 拓展期（第2-4个月）：
