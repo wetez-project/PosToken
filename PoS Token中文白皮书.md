@@ -1,12 +1,10 @@
-- [**（一）免责声明：**](#------------)
-- [**（二）背景介绍：**](#------------)
-- [**（三）PoS Token设计综述：**](#-----pos-token-------)
-- [**（四）如何获得PoS Token**](#---------pos-token--)
-- [**（五）PoS代币的价值场景**](#-----pos---------)
-- [**（六）PoS Token的代币（PoS）分发及总量**](#-----pos-token----pos--------)
-- [**（七）WePoS监督委员会**](#-----wepos-------)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+- [**（一）免责声明：**](#免责声明)
+- [**（二）背景介绍：**](#背景介绍)
+- [**（三）PoS Token设计综述：**](#PoSToken设计综述)
+- [**（四）如何获得PoS Token**](#如何获得PoSToken)
+- [**（五）PoS代币的价值场景**](#PoS代币的价值场景)
+- [**（六）PoS Token的代币分发及总量**](#PoSToken的代币分发及总量)
+- [**（七）WePoS监督委员会**](#WePoS监督委员会)
 
 
 
