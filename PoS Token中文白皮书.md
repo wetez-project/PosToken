@@ -13,6 +13,8 @@
 - [**（六）PoS Token的代币（PoS）分发及总量**](#-----pos-token----pos--------)
 - [**（七）WePoS监督委员会**](#-----wepos-------)
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 这是第一版白皮书，后续会陆续更新
 
 ## **（一）免责声明：**
